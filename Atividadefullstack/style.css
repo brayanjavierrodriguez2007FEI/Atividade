@@ -23,5 +23,32 @@
     color: purple;
 }
 .texto2{
-    color:purple
+    color:purple;
+}
+#youtube:active{
+    color:green;
+}
+#instagram:active{
+    color:green;
+}
+#github:active {
+    color:green;
+}
+#youtube:visited{
+    color:blue;
+}
+#instagram:visited{
+    color:blue;
+}
+#github:visited{
+    color:blue;
+}
+#youtube:hover{
+    color:red;
+}
+#instagram:hover{
+    color:red;
+}
+#github:hover{
+    color: red;
 }
