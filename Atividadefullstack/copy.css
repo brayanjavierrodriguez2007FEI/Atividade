@@ -1,0 +1,33 @@
+#h1{text-align: center;
+color: darkgreen;
+}
+#introduçao{ text-align: center;}
+#p1{font-style:italic;}
+body{
+    background-color: rgb(235, 210, 214);
+}
+#livros{text-align: center;}
+#img1{
+    width: 150px;
+    position: absolute;
+    left: 400px;
+}
+#img2{
+    width: 180px;
+    position: absolute;
+    left: 670px;
+}
+
+#img3{
+    width: 150px;
+    position: absolute;
+    left: 950px;
+}
+#p1,#p2,#p3{
+    color: darkblue;
+}
+#aprenda{
+    position: absolute;
+    top: 640px;
+    left: 590px;
+}
