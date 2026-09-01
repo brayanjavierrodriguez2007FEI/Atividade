@@ -31,3 +31,9 @@ body{
     top: 640px;
     left: 590px;
 }
+#home:hover {
+    color: red;
+}
+#projetos:hover{
+    color:red
+}
