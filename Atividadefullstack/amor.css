@@ -1,0 +1,20 @@
+#data_namoro{
+    color: red;
+    text-align: center;
+}
+#p1, #p2, #p3{
+    color: purple;
+}
+#foto2, #foto3, #foto4{
+    width: 200px;
+}
+#foto1{
+    width: 112px;
+}
+body{
+    background-color: rgb(215, 215, 244);
+}
+#h{
+    color: red;
+    text-align: center;
+}

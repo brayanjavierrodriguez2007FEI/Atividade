@@ -1,0 +1,5 @@
+ano_veiculo = int(input('Quantos anos tem o seu veiculo desde a sua fabricação?: '))
+if ano_veiculo < 3:
+    print ('Seu carro é um carro novo!')
+else:
+    print ('Seu carro já não é mais novo')
