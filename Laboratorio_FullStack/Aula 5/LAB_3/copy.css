@@ -1,0 +1,86 @@
+#h1{text-align: center;
+color: darkgreen;
+}
+#introduçao{ text-align: center;}
+#p1{font-style:italic;}
+body{
+    background-color: rgb(235, 210, 214);
+}
+#livros{text-align: center;}
+
+#p1,#p2,#p3{
+    color: darkblue;
+}
+#aprenda{
+    margin-top: 30px;
+    text-align: center;
+}
+#home:hover {
+    color: red;
+}
+#projetos:hover{
+    color:red
+}
+.video-box{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    gap: 30px;
+
+}
+.imagens-lab{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 20px;
+}
+#img1{
+    width: 150px;
+}
+#img2{
+    width: 150px;
+}
+#img3{
+    width: 150px;
+}
+#image_esquerda{
+    width: 150px;  
+}
+#image_direita{
+    width: 150px;
+}
+#css_java{
+    color: darkgreen;
+    text-align: center;
+    size: 50px;
+}
+.topo{
+    align-items: center;
+    background-color: bisque;
+    display:flex;
+    justify-content: space-between;
+}
+.contato{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.contato h1{
+    margin-bottom: 20px;
+    text-align: center;
+}
+#tabela{
+    border-style: dotted; color: red;
+}
+#semestre{
+    font-size: 15pt;
+}
+#image_inferior_esquerda{
+    width: 150px;
+}
+#image_inferior_direita{
+    width: 150px;
+}
