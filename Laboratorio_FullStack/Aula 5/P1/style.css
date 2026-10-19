@@ -1,0 +1,28 @@
+#nome{
+    color: red;
+}
+
+.topo {
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+.menu a{
+    margin-left: 20px;
+    text-decoration: none;
+}
+.apresentacao{
+    text-align: center;
+    
+}
+.apresentacao .botoes {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+#button-green{
+    background-color: green;
+
+}
